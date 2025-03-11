@@ -4,6 +4,9 @@
 
 ## Publications
 
+- Emanuele Mule, Matteo Pannacci, Ali Ghasemi Goudarzi, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025.
+
+
 <!--
 **MatteoPannacci/MatteoPannacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
