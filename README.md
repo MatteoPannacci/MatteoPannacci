@@ -4,7 +4,7 @@
 
 ## Publications
 
-- Emanuele Mule, Matteo Pannacci, Ali Ghasemi Goudarzi, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation - Winter Conference on Applications of Computer Vision (WACV), 2025.
+- Emanuele Mule, Matteo Pannacci, Ali Ghasemi Goudarzi, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
 
 
 <!--
