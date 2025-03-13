@@ -2,11 +2,33 @@
 
 ## Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=transparent)](https://github.com/MatteoPannacci/machiavelli-planning)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MatteoPannacci/SemanticAlignNet-QUAD">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MatteoPannacci/machiavelli-planning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=transparent" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MatteoPannacci/rdfs-in-neo4j">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MatteoPannacci/rp-simple-planner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=transparent" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=transparent)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=transparent)](https://github.com/MatteoPannacci/rp-simple-planner)
 
 
 
