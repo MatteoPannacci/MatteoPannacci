@@ -34,7 +34,9 @@
 
 ## Publications
 
-- Emanuele Mule, Matteo Pannacci, Ali Ghasemi Goudarzi, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. (paper [here](https://openaccess.thecvf.com/content/WACV2025W/AI4MFDD/papers/Mule_Enhancing_Ground-to-Aerial_Image_Matching_for_Visual_Misinformation_Detection_Using_Semantic_WACVW_2025_paper.pdf), repository [here](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD))
+[1] Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation. In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, pages 795-803, February 2025. ([article](https://arxiv.org/pdf/2502.06288), [repository](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD), [website](https://matteopannacci.github.io/SemanticAlignNet-QUAD/))
+      
+<sup>*</sup>: Equal contribution
 
 
 <!--
