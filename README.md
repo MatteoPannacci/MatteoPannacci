@@ -3,18 +3,18 @@
 ## Highlighted Projects
 
 <table border="0">
-  
+
   <tr>
     <!--- SemanticAlignNet-QUAD -->
     <td>
       <a href="https://github.com/MatteoPannacci/SemanticAlignNet-QUAD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=transparent&hide_border=true" />
       </a>
     </td>
     <!--- machiavelli-planning -->
     <td>
       <a href="https://github.com/MatteoPannacci/machiavelli-planning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -23,13 +23,13 @@
     <!--- rdfs-in-neo4j -->
     <td>
       <a href="https://github.com/MatteoPannacci/rdfs-in-neo4j">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=transparent&hide_border=true" />
       </a>
     </td>
     <!--- rp-simple-planner -->
     <td>
       <a href="https://github.com/MatteoPannacci/rp-simple-planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -38,13 +38,13 @@
     <!--- Multi-Family-Co-Evolutionary-RL -->
     <td>
       <a href="https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=transparent&hide_border=true" />
       </a>
     </td>
     <!--- fever-nli-augmentation -->
     <td>
       <a href="https://github.com/MatteoPannacci/fever-nli-augmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
