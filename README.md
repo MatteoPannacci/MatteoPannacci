@@ -34,6 +34,23 @@
     </td>
   </tr>
 
+
+
+  <tr>
+    <!--- Multi-Family-Co-Evolutionary-RL -->
+    <td>
+      <a href="https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=transparent" />
+      </a>
+    </td>
+    <!--- fever-nli-augmentation -->
+    <td>
+      <a href="https://github.com/MatteoPannacci/fever-nli-augmentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=transparent" />
+      </a>
+    </td>
+  </tr>
+
 </table>
 
 
