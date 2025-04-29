@@ -2,7 +2,7 @@
 
 ## Highlighted Projects
 
-<table>
+<table border="0">
   
   <tr>
     <!--- SemanticAlignNet-QUAD -->
@@ -33,8 +33,6 @@
       </a>
     </td>
   </tr>
-
-
 
   <tr>
     <!--- Multi-Family-Co-Evolutionary-RL -->
