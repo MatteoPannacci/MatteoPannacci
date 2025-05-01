@@ -19,6 +19,18 @@
 *: Equal contribution
 
 
+## Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=internet-explorer&logoColor=white)]()
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)]()
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)]()
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)]()
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)]()
+
+
 <!--
 **MatteoPannacci/MatteoPannacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
