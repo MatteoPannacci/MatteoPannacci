@@ -2,6 +2,8 @@
 
 MS Student in Artificial Intelligence and Robotics at Sapienza University of Rome
 
+![Visitor Counter](https://komarev.com/ghpvc/?username=matteopannacci&abbreviated=true)
+
 ## Highlighted Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
