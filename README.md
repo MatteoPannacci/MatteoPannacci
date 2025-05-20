@@ -16,6 +16,13 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/fever-nli-augmentation)
 
 
+## Publications
+
+[1] Emanuele Mule*, Matteo Pannacci*, Ali Ghasemi Goudarzi*, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation. In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, pages 795-803, February 2025. ([article](https://arxiv.org/pdf/2502.06288), [repository](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD), [website](https://matteopannacci.github.io/SemanticAlignNet-QUAD/))
+      
+*: Equal contribution
+
+
 ## All My Repositories
 <details>
 
@@ -42,15 +49,7 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW1&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW1)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW2&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW2)
 
-  
-
 </details>
-
-## Publications
-
-[1] Emanuele Mule*, Matteo Pannacci*, Ali Ghasemi Goudarzi*, Francesco Pro, Lorenzo Papa, Luca Maiano and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation. In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, pages 795-803, February 2025. ([article](https://arxiv.org/pdf/2502.06288), [repository](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD), [website](https://matteopannacci.github.io/SemanticAlignNet-QUAD/))
-      
-*: Equal contribution
 
 
 ## Contacts
