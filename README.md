@@ -21,14 +21,20 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
 
   <summary>Repositories on My GitHub</summary>
 
+  &nbsp;
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/fever-nli-augmentation)
 
 </details>
 
+---
+
 <details>
       
   <summary>Repositories on Collaborators' GitHubs</summary>
+
+  &nbsp;
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Computer-Vision&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Computer-Vision)
