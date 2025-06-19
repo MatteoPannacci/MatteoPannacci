@@ -42,6 +42,8 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/fever-nli-augmentation)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=noisy-graph-classification&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/noisy-graph-classification)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=pepper-vinyl-shop&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/pepper-vinyl-shop)
+
 </details>
 
 ---
@@ -55,6 +57,9 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Computer-Vision&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Computer-Vision)
 
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer) -->
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DIAG-Robotics-Lab&repo=AMR24-FP3-PracticalSafety&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/DIAG-Robotics-Lab/AMR24-FP3-PracticalSafety) -->
+  
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask) -->
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW1&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW1)
