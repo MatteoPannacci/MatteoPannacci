@@ -22,7 +22,7 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
 
   &nbsp;
 
-  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=MatteoPannacci&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/MatteoPannacci) -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=MatteoPannacci&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/MatteoPannacci)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=matteopannacci.github.io&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/matteopannacci.github.io)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
