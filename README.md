@@ -63,7 +63,7 @@ MS Student in Artificial Intelligence and Robotics at Sapienza University of Rom
 ## Contacts
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=internet-explorer&logoColor=white)](https://matteopannacci.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](matteo.pannacci@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matteo-pannacci/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Matteo-Pannacci)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=_VlMoTYAAAAJ&hl=it&oi=ao)
