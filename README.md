@@ -1,6 +1,6 @@
 ## About Me
 
-MS Student in Artificial Intelligence and Robotics at Sapienza University of Rome
+MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
 
 
 ## Highlighted Projects
