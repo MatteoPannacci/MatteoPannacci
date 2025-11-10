@@ -50,7 +50,7 @@ MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Computer-Vision&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Computer-Vision)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Practically-Safe-Controllers-Mobile-Robots&theme=ayu-mirage&hide_border=true&description_lines_count=3)]([https://github.com/DIAG-Robotics-Lab/AMR24-FP3-PracticalSafety](https://github.com/EmaMule/Practically-Safe-Controllers-Mobile-Robots))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Practically-Safe-Controllers-Mobile-Robots&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Practically-Safe-Controllers-Mobile-Robots))
   
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask) -->
 
