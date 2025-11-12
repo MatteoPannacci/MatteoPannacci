@@ -8,6 +8,9 @@ MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/machiavelli-planning)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rp-simple-planner)
 
