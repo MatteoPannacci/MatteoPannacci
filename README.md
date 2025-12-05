@@ -38,6 +38,7 @@ MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=noisy-graph-classification&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/noisy-graph-classification)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=pepper-vinyl-shop&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/pepper-vinyl-shop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=bip-talent-week-2025&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/bip-talent-week-2025)
 
 </details>
 
