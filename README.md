@@ -40,6 +40,8 @@ MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=pepper-vinyl-shop&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/pepper-vinyl-shop)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=bip-talent-week-2025&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/bip-talent-week-2025)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=multi-LTLf2DFA&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/multi-LTLf2DFA)
+
 </details>
 
 ---
@@ -55,11 +57,11 @@ MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Practically-Safe-Controllers-Mobile-Robots&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Practically-Safe-Controllers-Mobile-Robots)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW1&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW1)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW2&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW2)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask)
 
 </details>
 
