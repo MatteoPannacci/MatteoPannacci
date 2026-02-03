@@ -1,6 +1,6 @@
 ## About Me
 
-MSc in Artificial Intelligence and Robotics at Sapienza University of Rome
+Software Engineer @ Prima | MSc in Artificial Intelligence and Robotics @ Sapienza University of Rome
 
 
 ## Highlighted Projects
