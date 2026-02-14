@@ -35,7 +35,7 @@ jobs:
           - name: dark
             options: theme=ayu-mirage&hide_border=true&description_lines_count=3
           - name: light
-            options: theme=graywhite&hide_border=true&description_lines_count=3
+            options: theme=swift&hide_border=false&description_lines_count=3
 
     steps:
       - uses: actions/checkout@v6
