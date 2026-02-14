@@ -31,6 +31,11 @@ jobs:
           - "lorenzopannacci/TLC-HW1"
           - "lorenzopannacci/TLC-HW2"
           - "KRLGroup/SymGroundMultiTask"
+        settings:
+          - name: dark
+            options: theme=ayu-mirage&hide_border=true&description_lines_count=3
+          - name: light
+            options: theme=graywhite&hide_border=true&description_lines_count=3
 
     steps:
       - uses: actions/checkout@v6
@@ -45,15 +50,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ steps.split.outputs.username }}&repo=${{ steps.split.outputs.repo }}&theme=ayu-mirage&hide_border=true&description_lines_count=3
-          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}.svg
+          options: username=${{ steps.split.outputs.username }}&repo=${{ steps.split.outputs.repo }}&${{ matrix.settings.options }}
+          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}-${{ matrix.settings.name }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: card-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}
-          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}.svg
+          name: card-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}-${{ matrix.settings.name }}
+          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}-${{ matrix.settings.name }}.svg
 
   commit:
     runs-on: ubuntu-latest
