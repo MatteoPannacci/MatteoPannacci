@@ -1,0 +1,80 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        pin-cards:
+          - "MatteoPannacci/MatteoPannacci"
+          - "MatteoPannacci/matteopannacci.github.io"
+          - "MatteoPannacci/SemanticAlignNet-QUAD"
+          - "MatteoPannacci/machiavelli-planning"
+          - "MatteoPannacci/rdfs-in-neo4j"
+          - "MatteoPannacci/rp-simple-planner"
+          - "MatteoPannacci/fever-nli-augmentation"
+          - "MatteoPannacci/noisy-graph-classification"
+          - "MatteoPannacci/pepper-vinyl-shop"
+          - "MatteoPannacci/bip-talent-week-2025"
+          - "MatteoPannacci/multi-LTLf2DFA"
+          - "EmaMule/Multi-Family-Co-Evolutionary-RL"
+          - "EmaMule/Computer-Vision"
+          - "EmaMule/2D-to-3D-Style-Transfer"
+          - "EmaMule/Practically-Safe-Controllers-Mobile-Robots"
+          - "lorenzopannacci/TLC-HW1"
+          - "lorenzopannacci/TLC-HW2"
+          - "KRLGroup/SymGroundMultiTask"
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Extract username and repo
+        id: split
+        run: |
+          echo "username=$(echo ${{ matrix.pin-cards }} | cut -d'/' -f1)" >> $GITHUB_OUTPUT
+          echo "repo=$(echo ${{ matrix.pin-cards }} | cut -d'/' -f2)" >> $GITHUB_OUTPUT
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ steps.split.outputs.username }}&repo=${{ steps.split.outputs.repo }}&theme=ayu-mirage&hide_border=true&description_lines_count=3
+          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: card-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}
+          path: pin-${{ steps.split.outputs.username }}-${{ steps.split.outputs.repo }}.svg
+
+  commit:
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: card-*
+          path: profile
+          merge-multiple: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
