@@ -5,17 +5,17 @@ Software Engineer @ Prima | MSc in Artificial Intelligence and Robotics @ Sapien
 
 ## Highlighted Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/machiavelli-planning)
+[![MatteoPannacci/SemanticAlignNet-QUAD](profile/pin-MatteoPannacci-SemanticAlignNet-QUAD.svg)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
+[![MatteoPannacci/machiavelli-planning](profile/pin-MatteoPannacci-machiavelli-planning.svg)](https://github.com/MatteoPannacci/machiavelli-planning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
+[![KRLGroup/SymGroundMultiTask](profile/pin-KRLGroup-SymGroundMultiTask.svg)](https://github.com/KRLGroup/SymGroundMultiTask)
+[![EmaMule/2D-to-3D-Style-Transfer](profile/pin-EmaMule-2D-to-3D-Style-Transfer.svg)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rp-simple-planner)
+[![MatteoPannacci/rdfs-in-neo4j](profile/pin-MatteoPannacci-rdfs-in-neo4j.svg)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
+[![MatteoPannacci/rp-simple-planner](profile/pin-MatteoPannacci-rp-simple-planner.svg)](https://github.com/MatteoPannacci/rp-simple-planner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/fever-nli-augmentation)
+[![EmaMule/Multi-Family-Co-Evolutionary-RL](profile/pin-EmaMule-Multi-Family-Co-Evolutionary-RL.svg)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
+[![MatteoPannacci/fever-nli-augmentation](profile/pin-MatteoPannacci-fever-nli-augmentation.svg)](https://github.com/MatteoPannacci/fever-nli-augmentation)
 
 
 ## All My Repositories
@@ -25,22 +25,22 @@ Software Engineer @ Prima | MSc in Artificial Intelligence and Robotics @ Sapien
 
   &nbsp;
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=MatteoPannacci&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/MatteoPannacci)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=matteopannacci.github.io&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/matteopannacci.github.io)
+  [![MatteoPannacci/MatteoPannacci](profile/pin-MatteoPannacci-MatteoPannacci.svg)](https://github.com/MatteoPannacci/MatteoPannacci)
+  [![MatteoPannacci/matteopannacci.github.io](profile/pin-MatteoPannacci-matteopannacci.github.io.svg)](https://github.com/MatteoPannacci/matteopannacci.github.io)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=SemanticAlignNet-QUAD&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=machiavelli-planning&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/machiavelli-planning)
+  [![MatteoPannacci/SemanticAlignNet-QUAD](profile/pin-MatteoPannacci-SemanticAlignNet-QUAD.svg)](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)
+  [![MatteoPannacci/machiavelli-planning](profile/pin-MatteoPannacci-machiavelli-planning.svg)](https://github.com/MatteoPannacci/machiavelli-planning)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rdfs-in-neo4j&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=rp-simple-planner&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/rp-simple-planner)
+  [![MatteoPannacci/rdfs-in-neo4j](profile/pin-MatteoPannacci-rdfs-in-neo4j.svg)](https://github.com/MatteoPannacci/rdfs-in-neo4j)
+  [![MatteoPannacci/rp-simple-planner](profile/pin-MatteoPannacci-rp-simple-planner.svg)](https://github.com/MatteoPannacci/rp-simple-planner)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=fever-nli-augmentation&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/fever-nli-augmentation)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=noisy-graph-classification&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/noisy-graph-classification)
+  [![MatteoPannacci/fever-nli-augmentation](profile/pin-MatteoPannacci-fever-nli-augmentation.svg)](https://github.com/MatteoPannacci/fever-nli-augmentation)
+  [![MatteoPannacci/noisy-graph-classification](profile/pin-MatteoPannacci-noisy-graph-classification.svg)](https://github.com/MatteoPannacci/noisy-graph-classification)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=pepper-vinyl-shop&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/pepper-vinyl-shop)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=bip-talent-week-2025&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/bip-talent-week-2025)
+  [![MatteoPannacci/pepper-vinyl-shop](profile/pin-MatteoPannacci-pepper-vinyl-shop.svg)](https://github.com/MatteoPannacci/pepper-vinyl-shop)
+  [![MatteoPannacci/bip-talent-week-2025](profile/pin-MatteoPannacci-bip-talent-week-2025.svg)](https://github.com/MatteoPannacci/bip-talent-week-2025)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatteoPannacci&repo=multi-LTLf2DFA&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/MatteoPannacci/multi-LTLf2DFA)
+  [![MatteoPannacci/multi-LTLf2DFA](profile/pin-MatteoPannacci-multi-LTLf2DFA.svg)](https://github.com/MatteoPannacci/multi-LTLf2DFA)
 
 </details>
 
@@ -52,16 +52,16 @@ Software Engineer @ Prima | MSc in Artificial Intelligence and Robotics @ Sapien
 
   &nbsp;
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Multi-Family-Co-Evolutionary-RL&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Computer-Vision&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Computer-Vision)
+  [![EmaMule/Multi-Family-Co-Evolutionary-RL](profile/pin-EmaMule-Multi-Family-Co-Evolutionary-RL.svg)](https://github.com/EmaMule/Multi-Family-Co-Evolutionary-RL)
+  [![EmaMule/Computer-Vision](profile/pin-EmaMule-Computer-Vision.svg)](https://github.com/EmaMule/Computer-Vision)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=2D-to-3D-Style-Transfer&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmaMule&repo=Practically-Safe-Controllers-Mobile-Robots&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/EmaMule/Practically-Safe-Controllers-Mobile-Robots)
+  [![EmaMule/2D-to-3D-Style-Transfer](profile/pin-EmaMule-2D-to-3D-Style-Transfer.svg)](https://github.com/EmaMule/2D-to-3D-Style-Transfer)
+  [![EmaMule/Practically-Safe-Controllers-Mobile-Robots](profile/pin-EmaMule-Practically-Safe-Controllers-Mobile-Robots.svg)](https://github.com/EmaMule/Practically-Safe-Controllers-Mobile-Robots)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW1&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorenzopannacci&repo=TLC-HW2&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/LorenzoPannacci/TLC-HW2)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KRLGroup&repo=SymGroundMultiTask&theme=ayu-mirage&hide_border=true&description_lines_count=3)](https://github.com/KRLGroup/SymGroundMultiTask)
+  [![lorenzopannacci/TLC-HW1](profile/pin-lorenzopannacci-TLC-HW1.svg)](https://github.com/lorenzopannacci/TLC-HW1)
+  [![lorenzopannacci/TLC-HW2](profile/pin-lorenzopannacci-TLC-HW2.svg)](https://github.com/lorenzopannacci/TLC-HW2)
+
+  [![KRLGroup/SymGroundMultiTask](profile/pin-KRLGroup-SymGroundMultiTask.svg)](https://github.com/KRLGroup/SymGroundMultiTask)
 
 </details>
 
